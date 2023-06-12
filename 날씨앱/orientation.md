@@ -31,9 +31,14 @@
    rew install watchman
 3. ios app store 에서 Expo Go 다운
    계정 만들고 로그인
-   
+  
+- 순서대로 설치했는데 expo 를 찾을 수가 없다고함. expo-cli 설치가 오류나서 노드 삭제 후 재설치 해야됨.
+  - 
+
+
 <hr>
 
 ### 무엇이 React Native 이고, 무엇이 아닌지, 어떻게 작동하는지
 
+강의 1.6~
    
