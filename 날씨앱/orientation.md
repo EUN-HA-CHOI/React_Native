@@ -23,8 +23,8 @@
 
 
 1. https://expo.dev/ 설치 
-   Expo 는 리액트 네이티브 코드를 곧바로 폰으로 전송시켜준다. 
-   Expo 는 폰 안에 있는 리액트 네이티브 코드를 실행시켜서, 폰에서 코드를 바로 미리보기 할 수 있다. 
+   Expo 는 React Native 코드를 곧바로 폰으로 전송시켜준다. 
+   Expo 는 폰 안에 있는 React Native 코드를 실행시켜서, 폰에서 코드를 바로 미리보기 할 수 있다. 
    
 2. watchman 설치 
    brew update
@@ -32,4 +32,8 @@
 3. ios app store 에서 Expo Go 다운
    계정 만들고 로그인
    
+<hr>
+
+### 무엇이 React Native 이고, 무엇이 아닌지, 어떻게 작동하는지
+
    
